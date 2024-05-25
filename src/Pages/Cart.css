@@ -1,0 +1,21 @@
+.popup-message {
+    position: fixed;
+    top: 40%;
+    right: 0;
+    transform: translateY(-50%);
+    animation: slideInRight 0.5s forwards;
+  }
+  
+
+  
+ 
+  
+  @keyframes slideInRight {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  

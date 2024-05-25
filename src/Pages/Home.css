@@ -1,0 +1,57 @@
+.first-sm{
+    background-image: url('https://wallpaperaccess.com/full/1448067.jpg ');
+    background-size:cover ;
+    background-position: center;
+    height: 30vh;
+}
+.first-md{
+    background-image: url('https://wallpaperaccess.com/full/1448067.jpg ');
+    background-size:cover ;
+    background-position: center;
+    height: 50vh;
+}
+.first-lg{
+    background-image: url('https://wallpaperaccess.com/full/1448067.jpg ');
+    background-size:cover ;
+    background-position: center;
+    height: 100vh;
+}
+.second-sm{
+    background-image: url('https://www.thetigernews.com/wp-content/uploads/2022/01/red-women-Leather-Jacket.webp');
+    background-size:cover ;
+    background-position: center;
+    height: 30vh;
+}
+.second-md{
+    background-image: url('https://www.thetigernews.com/wp-content/uploads/2022/01/red-women-Leather-Jacket.webp');
+    background-size:cover ;
+    background-position: center;
+    height: 50vh;
+}
+.second-lg{
+    background-image: url('https://www.thetigernews.com/wp-content/uploads/2022/01/red-women-Leather-Jacket.webp');
+    background-size:cover ;
+    background-position: fill;
+    height: 100vh;
+}
+.third-sm{
+    background-image: url('https://wallpapers.com/images/hd/simple-mickey-mouse-hd-224t2e5t2nhcv1vj.jpg');
+    background-size:cover ;
+    background-position: center;
+    height: 30vh;
+}
+.third-md{
+    background-image: url('https://wallpapers.com/images/hd/simple-mickey-mouse-hd-224t2e5t2nhcv1vj.jpg');
+    background-size:cover ;
+    background-position: center;
+    height:50vh;
+ 
+}
+.third-lg{
+    background-image: url('https://wallpapers.com/images/hd/simple-mickey-mouse-hd-224t2e5t2nhcv1vj.jpg');
+    
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    
+}

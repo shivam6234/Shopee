@@ -1,0 +1,17 @@
+.cartcount{
+    font-size: large !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    background-color: orangered;
+    width: 50%;
+    text-align: center;
+    height: 50%;
+    margin-top: -10px;
+    margin-left: -20px;
+  
+}
+.cart{
+    display: flex;
+    width: 20%;
+
+}

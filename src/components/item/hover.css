@@ -1,0 +1,22 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .additional-content {
+    background-color: #f9f9f9;
+    padding: 10px;
+    /* display: none; */
+  }
+  
+  /* .hovered .additional-content {
+    display: block;
+  } */
+  
